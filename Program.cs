@@ -64,6 +64,7 @@ namespace GRUDCadastroTVSeries.Series
             			
 			string Ax_Confirma =  " " ;
 
+           //Solicita confirmaçao para excluir arquivos
 			while (Ax_Confirma.ToUpper() != "Y" && 
 			       Ax_Confirma.ToUpper() != "N"  ) {
 				
